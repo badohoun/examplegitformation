@@ -1,6 +1,8 @@
 def add_numbers(a,b,c):
-
+    """return sum of a,b,c"""
     return sum(a,b,c)
+    
+    
 
 #1. étendre add_numbers pour autoriser un nombre arbitraire de paramètres
 #2. investiguer et résoudre le problème de sécurité de add_numbers()
